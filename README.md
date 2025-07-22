@@ -1,30 +1,56 @@
 <h1 align="center">Hi 👋, I'm Harshit Katyal</h1>
-<h3 align="center">Aspiring Frontend Developer | JavaScript Enthusiast | Building Projects</h3>
+<h3 align="center">Aspiring Frontend Developer | JavaScript Enthusiast</h3>
 
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
-### 🛠️ Skills  
-- **Frontend:** HTML, CSS, JavaScript  
-- **Tools:** Git, GitHub  
-- **Learning:** React (Next Goal)  
+### 🛠️ Tech Stack
+<p align="left">
+  <!-- Languages -->
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+  </a>
+  <!-- Tools -->
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  </a>
+</p>
 
-### 🚀 Projects  
-1. **[Currency Converter](https://github.com/HarshitCodes16/Currency-Converter)**  
-   - Built with **HTML, CSS, JS**  
-   - Learned: **API Fetching, DOM Manipulation**  
+### 🚀 Featured Project
+[**Currency Converter**](https://github.com/HarshitCodes16/Currency-Converter)  
+✔️ Real-time exchange rates  
+✔️ Clean UI with responsive design  
+✔️ Built with vanilla JavaScript
 
-### 📫 Connect With Me  
-- LinkedIn: [Harshit Katyal](https://www.linkedin.com/in/harshit-katyal-038825297/)  
-- Email: **hkatyal_be23@thapar.edu**  
-
-### ⚡ Fun Fact  
-I code best at 2 AM with chai ☕.  
+### 📫 Let's Connect
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/harshit-katyal-038825297/)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:hkatyal_be23@thapar.edu)
 
 ---
 
-<!-- GitHub Stats (kept your original layout) -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshitcodes16&show_icons=true&locale=en&layout=compact" alt="harshitcodes16" /></p>
+### 📊 GitHub Stats
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=HarshitCodes16&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=HarshitCodes16&theme=radical" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshitcodes16&show_icons=true&locale=en" alt="harshitcodes16" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshitcodes16&" alt="harshitcodes16" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshitCodes16&layout=compact&theme=radical" />
+</p>
