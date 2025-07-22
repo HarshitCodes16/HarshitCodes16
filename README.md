@@ -9,18 +9,22 @@
 - **Learning:** React (Next Goal)  
 
 ### 🚀 Projects  
-1. **Currency Converter**  
+1. **[Currency Converter](https://github.com/HarshitCodes16/Currency-Converter)**  
    - Built with **HTML, CSS, JS**  
    - Learned: **API Fetching, DOM Manipulation**  
-   - [Live Demo](#) | [Code](#) *(add links!)*  
 
-2. **More Projects Coming Soon!** *(Add later)*  
-
-### 📫 Reach Me  
+### 📫 Connect With Me  
+- LinkedIn: [Harshit Katyal](https://www.linkedin.com/in/harshit-katyal-038825297/)  
 - Email: **hkatyal_be23@thapar.edu**  
-- LinkedIn: [Your Profile](#) *(add link)*  
 
 ### ⚡ Fun Fact  
 I code best at 2 AM with chai ☕.  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshitcodes16&label=Profile%20views&color=0e75b6&style=flat" alt="harshitcodes16" /> </p>
+---
+
+<!-- GitHub Stats (kept your original layout) -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshitcodes16&show_icons=true&locale=en&layout=compact" alt="harshitcodes16" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshitcodes16&show_icons=true&locale=en" alt="harshitcodes16" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshitcodes16&" alt="harshitcodes16" /></p>
