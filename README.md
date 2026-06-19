@@ -1,9 +1,14 @@
 <h1 align="center">Hi 👋, I'm Harshit Katyal</h1>
 <h3 align="center">Computer Engineering Student | ML & Software Engineering Enthusiast</h3>
 
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHc0cXN2am84bXN6Zndpdm80bXN6Zndpdm80bXN6Zndpdm80bXN6Zg/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding GIF" width="350">
+</p>
+
+---
 
 ### 🛠️ Tech Stack
+
 <p align="left">
   <!-- Programming Languages -->
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
@@ -44,20 +49,22 @@
   </a>
 </p>
 
+---
+
 ### 🚀 Featured Projects
 
-**🏎️ Car Crash Simulation & Impact Prediction**  
+**🏎️ [Car Crash Simulation & Impact Prediction](https://github.com/HarshitCodes16/simulation-based-ml-car-crash)**  
 ✔️ Developed a SimPy-based vehicle braking and collision simulation framework generating 1000 synthetic data observations.  
-✔️ Benchmarked 7 regression models (Random Forest, Decision Tree, KNN, SVR) for predictive analysis[cite: 1].  
-✔️ Achieved a top $R^2$ accuracy score of 0.9686 using Random Forest[cite: 1].
+✔️ Benchmarked 7 regression models (Random Forest, Decision Tree, KNN, SVR) for predictive analysis.  
+✔️ Achieved a top $R^2$ accuracy score of 0.9686 using Random Forest.
 
-**📊 TOPSIS Python Package & Ranking Platform**  
-✔️ Developed and published an open-source Python package on PyPI implementing the TOPSIS multi-criteria decision-making algorithm[cite: 1].  
-✔️ Built a full-stack web application with Next.js supporting data uploads (CSV/Excel) and dynamic matrix ranking configurations[cite: 1].
+**📊 [TOPSIS Python Package & Ranking Platform](https://github.com/HarshitCodes16/topsis-package)**  
+✔️ Developed and published an open-source Python package on PyPI implementing the TOPSIS multi-criteria decision-making algorithm.  
+✔️ Built a full-stack web application supporting data uploads (CSV/Excel) and dynamic matrix ranking configurations.
 
-**🏆 Sports Inventory Management System**  
-✔️ Built a robust database management framework using Oracle and PL/SQL for automated inventory tracking and fine calculation systems[cite: 1].  
-✔️ Implemented over 25 customized procedures, triggers, and cursors across multiple transactional data modules[cite: 1].
+**🏆 [Sports Inventory Management System](https://github.com/HarshitCodes16/Sports-Item-Management-System)**  
+✔️ Built a robust database management framework using Oracle and PL/SQL for automated inventory tracking and fine calculation systems.  
+✔️ Implemented over 25 customized procedures, triggers, and cursors across multiple transactional data modules.
 
 ---
 
@@ -67,12 +74,7 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=HarshitCodes16&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=HarshitCodes16&theme=radical" />
-</p>
-
+### 📊 Language Insights
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshitCodes16&layout=compact&theme=radical" />
 </p>
