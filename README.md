@@ -78,5 +78,5 @@
 
 ### 📊 Language Insights
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshitCodes16&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshitCodes16&layout=compact&theme=radical&hide_border=true" alt="Harshit's Top Languages" />
 </p>
